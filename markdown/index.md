@@ -6,4 +6,3 @@
 
 [Les bij Quincy](havo4.html)
 
-[VWO-Top](https://carldejong.github.io/presentations/vwo.html)
