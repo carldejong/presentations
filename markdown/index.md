@@ -1,6 +1,6 @@
 ## Welkom
 
-[VWO-Top](vwo.html)
+[VWO-Top](/presentations/vwo.html)
 
 [HAVO-Top](../havo.html)
 
