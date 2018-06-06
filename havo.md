@@ -1,6 +1,4 @@
-## HAVO
-
-[Introductie](intro-vavo.html)
+## HAVO (2017-2018)
 
 **Hoofdstuk:**
 [6&7, ](havo_hfd6-7.html)
