@@ -142,11 +142,7 @@ Voorwaarden:
 - Acceptatie van de opdracht (draagvlak)
 
 
-<section id="vid">
-     <iframe src="http://www.youtube.com/embed/u4S8rQaOupU?rel=0"
-     frameborder="0" height="600" width="800"></iframe>
-     </section>
-Type X
+[Type X](http://www.youtube.com/embed/u4S8rQaOupU)
 
 
 ## Einde
