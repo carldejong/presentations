@@ -85,6 +85,6 @@ Controle? 3150 x 15,66 - 36.099 = ook 13.230 euro!
 
 ## Einde
 
-[printbare versie](havo_hfd20.html?print-pdf)
+[printbare versie](havo_hfd23.html?print-pdf)
 
 [home](index.html)
