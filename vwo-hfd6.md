@@ -147,6 +147,6 @@ Voorwaarden:
 
 ## Einde
 
-[printbare versie](vwo_hfd7-8.html?print-pdf)
+[printbare versie](vwo_hfd6.html?print-pdf)
 
 [home](index.html)
