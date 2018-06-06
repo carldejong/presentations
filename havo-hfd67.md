@@ -182,6 +182,6 @@ file:///home/carl/Pictures/Selection_011.png
 
 ## Einde
 
-[printbare versie](vwo_hfd7-8.html?print-pdf)
+[printbare versie](havo_hfd6-7.html?print-pdf)
 
 [home](index.html)
