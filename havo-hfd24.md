@@ -285,6 +285,6 @@ klopt het?
 
 ## Einde
 
-[printbare versie](vwo_hfd26.html?print-pdf)
+[printbare versie](havo_hfd24.html?print-pdf)
 
 [home](index.html)
