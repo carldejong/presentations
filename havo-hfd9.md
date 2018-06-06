@@ -78,6 +78,6 @@ $$ \frac{ln2}{ln(1+i)}$$
 
 ## Einde
 
-[printbare versie](vwo_hfd7-8.html?print-pdf)
+[printbare versie](havo_hfd9.html?print-pdf)
 
 [home](index.html)
