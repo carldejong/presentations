@@ -1,6 +1,6 @@
 ## Welkom
 
-[VWO-Top](https://carldejong.github.io/presentations/vwo.html)
+[VWO-Top](vwo.html)
 
 [HAVO-Top](../havo.html)
 
