@@ -85,15 +85,116 @@ Wat als je steeds per periode een bedrag wegzet tegen een uitstaande rente?
 Dus bijvoorbeeld je stort aan het einde van ieder jaar 500 euro op een rekening. Hoeveel is dat dan waard na 20 jaar bij een percentage van 4%?
 
 
-Oplossing: 
+**Oplossing:**
 
-Jaar 1 = 500 x 1,04^19
-Jaar 2 = 500 x 1,04^18
-Jaar 3 = 500 x 1,04^17
+$$ Jaar 1 = 500 . 1,04^{19}$$
+
+$$ Jaar 2 = 500 . 1,04^{18}$$
+
+$$ Jaar 3 = 500 . 1,04^{17}$$
+...
 
 
+**Herschrijven:**
 
-#### 11.2
+500 . $$(1,04^{19} + 1,04^{18} + ..)$$
+
+
+**Spreadsheetprogramma:**
+
+![spreadsheet](vavo/fotos/eindwaarde.png)
+
+
+**Kan het ook anders? ...**
+
+
+#### 11.3 Eindwaarde van een rente met een formule
+
+
+**De somformule:**
+
+$$ 500 . \frac{1,04^{20} - 1}{1,04 - 1} $$
+
+
+**Op de rekenmachine:**
+
+![calculator](vavo/fotos/calculator.png)
+
+
+#### 11.2 Berekening van de contante waarde van een rente
+
+
+Stel de rente per jaar is 6% en ik wil wanneer ik met pensioen ga 10 jaar lang ieder jaar 6000 euro op kunnen nemen om jaarlijks een mooie reis te maken..
+
+Hoeveel moet ik dan storten voor die tijd?
+
+
+6000 . 
+$$ (1,06^{-10} + 1,06^{-9} + ..) $$
+
+
+**Spreadsheetprogramma:**
+
+![spreadsheet](vavo/fotos/contantewaarde.png)
+
+
+**Kan het ook anders? ...**
+
+
+#### 11.4 Contante waarde van een rente met een formule
+
+
+** De contante waarde-formule:**
+
+$$ C_{10} = \frac{1,06^{-10} - 1}{1,06^{-1} - 1}$$
+
+
+**Op de rekenmachine:**
+
+![calculator](vavo/fotos/calculator_cw.png)
+
+
+**Herschrijven: **
+
+_Makkelijker ???_
+
+
+_Postnumerando:_
+
+$$ Termijn . \frac{1-(1+i)^{-n}}{i}$$
+
+Invullen:
+
+$$ 6000 . \frac{1-(1,06)^{-10}}{0,06} = 44.160,52$$
+
+
+**Op de rekenmachine:**
+
+![calculator](vavo/fotos/calculator_pon.png)
+
+
+_Prenumerando:_
+
+$$ Termijn . (1+i) . \frac{1-(1+i)^{-n}}{i}$$
+
+Invullen:
+
+$$ 6000 . 1,06 . \frac{1-(1,06)^{-10}}{0,06} = 46.810,15$$
+
+
+#### 11.5 Nominale en effectieve interest
+
+
+![creditcard](vavo/fotos/cc_ing.png)
+
+Stel dat je voor iedere maand roodstand 1% rente moet betalen.
+
+.. rente over rente .. 
+
+
+$$ 1,01^{12} = 1,12682503 = 12,7\% $$
+_effectief_
+
 
 
 ## Einde
