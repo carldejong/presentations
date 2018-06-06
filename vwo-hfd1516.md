@@ -214,11 +214,6 @@ Onderhands
 
 ## Einde
 
-[printbare versie](vwo_hfd7-8.html?print-pdf)
+[printbare versie](vwo_hfd1516.html?print-pdf)
 
 [home](index.html)
-
-
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fgoo.gl%2Fforms%2F0FBkkFfoPO13io2M2&amp;qzone=1&amp;margin=0&amp;size=525x525&amp;ecc=L" alt="qr code" />
-
-https://goo.gl/forms/0FBkkFfoPO13io2M2
