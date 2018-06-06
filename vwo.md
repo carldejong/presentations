@@ -1,6 +1,4 @@
-## VWO
-
-[Introductie](intro-vavo.html)
+## VWO (2017-2018)
 
 Hoofdstuk: 
 [6](vwo_hfd6.html),
