@@ -147,3 +147,10 @@ Voorwaarden:
      frameborder="0" height="600" width="800"></iframe>
      </section>
 Type X
+
+
+## Einde
+
+[printbare versie](vwo_hfd7-8.html?print-pdf)
+
+[home](index.html)
