@@ -80,6 +80,6 @@ https://www.youtube.com/watch?v=4CP-Xzmlu-Y
 
 ## Einde
 
-[printbare versie](vwo_hfd24.html?print-pdf)
+[printbare versie](vwo_hfd38.html?print-pdf)
 
 [home](index.html)
